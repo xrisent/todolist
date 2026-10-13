@@ -161,3 +161,8 @@ render();
 // не отслеживаемые файлы -> отслеживаемые файлы (git add) -> сохранение отслеживаемых файлов (git commit) -> github (git push) отправление данных в удаленный репозиторий
 
 // conflict
+// conflicts 2323223
+// conflicts 2323223
+// conflicts 2323223
+// conflicts 2323223
+// conflicts 2323223
